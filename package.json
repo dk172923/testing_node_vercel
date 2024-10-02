@@ -1,0 +1,16 @@
+{
+  "name": "testing_node_vercel",
+  "version": "1.0.0",
+  "description": "This repository is for testing how to deploy nodejs project on vercel",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhineshkumar M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
